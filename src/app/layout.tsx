@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google"
 import cn from "classnames";
-import "./globals.css";
+import "@/styles/global.css";
 
 
 export const metadata: Metadata = {
